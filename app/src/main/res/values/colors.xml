@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6e0971</color>
+
+    <color name="colorSecondary">#673268</color>  <!--#98466c-->
+    <color name="colorPrimaryTint">#336e0971</color>
+    <color name="colorPrimaryDark">#29011d</color>
+    <color name="colorAccent">#cccccc</color>
+    <color name="colorAccentComplementory">#1D1D1D</color>
+    <color name="facebookColor">#3a5795</color>
+    <color name="white">#ffffff</color>
+    <color name="googleColor">#ea4335</color>
+    <color name="black">#000000</color>
+    <color name="buttonTextColor">#6200EA</color>
+
+</resources>
